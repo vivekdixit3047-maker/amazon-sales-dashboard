@@ -30,6 +30,6 @@ Analyzed 1000 Amazon-style e-commerce orders to uncover sales trends, customer b
 
 ## 👤 Author
 **Vivek Dixit** - Aspiring Data Analyst
-Aligarh, UP | [Add Your LinkedIn Link Here]
+Aligarh, UP | [https://www.linkedin.com/in/vivek-dixit-6505693a3]
 
 #DataAnalytics #Excel #Dashboard #Portfolio
